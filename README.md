@@ -4,6 +4,21 @@
 
 해당 코드는 [land-v2.hwahyang.space](https://land-v2.hwahyang.space)에서 확인하실 수 있습니다.
 
+## Tech Stack
+
+X
+
+## 저작권 안내
+
+- 원본 디자인은 [creativetimofficial/coming-sssoon-page](https://github.com/creativetimofficial/coming-sssoon-page)에서 가져왔습니다.
+
+- 사용된 일러스트는 [향연](https://twitter.com/H_Yeon_249)([@HYeon-249](https://github.com/HYeon-249))님께서 작업 해 주셨습니다.
+
+## 라이선스
+
+GPLv3
+
+
 ## 작업 기간
 
 - 2022.04.07 작업 시작
